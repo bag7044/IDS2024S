@@ -9,6 +9,6 @@
 **Level:** Undergraduate   
 **Position Title:** Student  
 **Course Webpage:** https://www.cdslab.org/IDS2024S/  
-**Photo:**  
+**Photo:**   
 
 
