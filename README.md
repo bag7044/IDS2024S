@@ -10,5 +10,6 @@
 **Position Title:** Student  
 **Course Webpage:** [Amir's Homepage](https://www.cdslab.org/IDS2024S/)  
 **Photo:**   
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 
