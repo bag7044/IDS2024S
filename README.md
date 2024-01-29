@@ -6,7 +6,7 @@ Department: Department of Data Science in Biology
 University: The University of Texas at Arlington
 Level: Undergraduate 
 Position Title: Student
-Course Webpage: <the course’s website, if any>
+Course Webpage: https://www.cdslab.org/IDS2024S/
 Photo:
 
 
