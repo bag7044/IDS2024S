@@ -1,2 +1,12 @@
 # IDS2024S
-Hello, Welcome to my Read Me. I am Brian Galeas and am a freshman at UTA learning data science. IDS2024S- Intro to Data Sciecnce 2023 Spring. Here I will be collaberating and turning in the assignments as well as learning the GitHub way for my future success as I will learn more coding/sharing.
+Name: Brian Galeas
+School ID: 1002157044
+Email: bag7077@mavs.uta.edu
+Department: Department of Data Science in Biology
+University: The University of Texas at Arlington
+Level: Undergraduate 
+Position Title: Student
+Course Webpage: <the course’s website, if any>
+Photo:
+
+
