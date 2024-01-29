@@ -1,4 +1,6 @@
-# IDS2024S 2242-DATA-1301-001 (Spring, 2024)
+# IDS2024S 
+
+**IDS2024S, Introduction of Data Science, Spring of 2024**
 Name: Brian Galeas
 School ID: 1002157044
 Email: bag7077@mavs.uta.edu
