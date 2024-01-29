@@ -8,7 +8,7 @@
 **University:** The University of Texas at Arlington  
 **Level:** Undergraduate   
 **Position Title:** Student  
-**Course Webpage:** https://www.cdslab.org/IDS2024S/  
+**Course Webpage:** [Amir's Homepage](https://www.cdslab.org/IDS2024S/)  
 **Photo:**   
 
 
