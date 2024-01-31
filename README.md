@@ -19,8 +19,8 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 For questions and troubleshooting, please contact:
 
-<your name>
-<your email>
-<any other contact or signature information that you would like to add>
+Brian Galeas
+bag7044@mavs.uta.edu
+
 
 
