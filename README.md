@@ -9,6 +9,23 @@
 **Level:** Undergraduate   
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](https://www.cdslab.org/IDS2024S/)  - **RIGHT CLICK SO IT DOES NOT TAKE YOU OUT OF PAGE**  
-**Photo:**   ![A photo of Brian G, JK its Messi](lionel-messi-862354l.jpg)
+**Photo:**   ![A photo of Brian G, JK its Messi](lionel-messi-862354l.jpg)  
+
+This repository contains my homework, quizzes, and virtually every effort that I have made for DATA-1301. The structure of the project is the following:
+
++ homework: (the homework hyperlink should take the reader to the homework folder)
+This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
+
++ quiz: (the quiz hyperlink should take the reader to the quizzes folder)
+This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.
+
++ exam: (the exam hyperlink should take the reader to the exams folder)
+This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
+
+For questions and troubleshooting, please contact:
+
+<your name>
+<your email>
+<any other contact or signature information that you would like to add>
 
 
