@@ -24,7 +24,9 @@ This repository contains my homework, quizzes, and virtually every effort that I
 For questions and troubleshooting, please contact:
 
 Brian Galeas
-bag7044@mavs.uta.edu
+bag7044@mavs.uta.edu  
+Student at the University of Texas at Arlington, Data Science in Biology  
+
 
 
 
