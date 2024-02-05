@@ -25,7 +25,8 @@ For questions and troubleshooting, please contact:
 
 Brian Galeas
 bag7044@mavs.uta.edu  
-Student at the University of Texas at Arlington, Data Science in Biology  
+Student at the University of Texas at Arlington  
+Data Science in Biology  
 
 
 
