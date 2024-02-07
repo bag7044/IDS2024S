@@ -18,7 +18,7 @@ This repository contains my homework, quizzes, and virtually every effort that I
 + [Exam](./exam): This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
 > You can not score without a goal.  
-> Someone on the internet.
+> ~ Someone on the internet.
 
   
 For questions and troubleshooting, please contact:
@@ -27,6 +27,8 @@ Brian Galeas:
 bag7044@mavs.uta.edu  
 Student at the University of Texas at Arlington  
 Data Science in Biology  
+
+This is a message from laptop command line.
 
 
 
