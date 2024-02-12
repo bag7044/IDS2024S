@@ -28,4 +28,49 @@
 18)  **I will use two astric stars on each side of the text.**  
 19)  *I had done it above for an example using one astric star on each side*  
 20) git init or init init <name>
-21)
+21) A singular. will take you back a folder and two .. will take you back two folders. A quicker way to travel around/ exit folders.
+22)  
++3) brian@BrianGLaptop MINGW64 ~ (master)
+$ ls -a
+ ./                   Downloads/                                                                                     Recent@
+ ../                  Favorites/                                                                                    'Saved Games'/
+ .bash_history        IDS2024S/                                                                                      Searches/
+ .git/                Links/                                                                                         SendTo@
+ .gitconfig          'Local Settings'@                                                                              'Start Menu'@
+ .lesshst             Music/                                                                                         Templates@
+ .ssh/               'My Documents'@                                                                                 Videos/
+ .tobii/              NTUSER.DAT                                                                                     curseforge/
+ .viminfo             NTUSER.DAT{1ce443b7-1b65-11ee-af10-d039574f50c0}.TM.blf                                        dir/
+ AppData/             NTUSER.DAT{1ce443b7-1b65-11ee-af10-d039574f50c0}.TMContainer00000000000000000001.regtrans-ms   git/
+'Application Data'@   NTUSER.DAT{1ce443b7-1b65-11ee-af10-d039574f50c0}.TMContainer00000000000000000002.regtrans-ms   ntuser.dat.LOG1
+ Contacts/            NetHood@                                                                                       ntuser.dat.LOG2
+ Cookies@             OneDrive/                                                                                      ntuser.ini
+ Documents/           PrintHood@                                                                                     testdir  
++4/5)
+brian@BrianGLaptop MINGW64 ~ (master)
+$ git init testdir
+Reinitialized existing Git repository in C:/Users/brian/testdir/.git/  
++6/7) It was already a file because I did this step twice. ls -a will show all hidden files
+23) absolute path is like a web address where it will take you directly to a place while relative is within that page.
+24)  git help a-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
