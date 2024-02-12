@@ -50,8 +50,8 @@ $ ls -a
 brian@BrianGLaptop MINGW64 ~ (master)
 $ git init testdir
 Reinitialized existing Git repository in C:/Users/brian/testdir/.git/  
-+6/7) It was already a file because I did this step twice. ls -a will show all hidden files
-23) absolute path is like a web address where it will take you directly to a place while relative is within that page.
++6/7) It was already a file because I did this step twice. ls -a will show all hidden files  
+23) absolute path is like a web address where it will take you directly to a place while relative is within that page.  
 24)  git help a-  
 
 
