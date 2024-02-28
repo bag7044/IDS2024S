@@ -29,8 +29,8 @@ b. Yes
 a. FORTRAN
 b. Was made in the 1950s so 7 decades old.  
 23.  
-a. Assembly
-b. Fortran is 3rd, C is 3rd, C++ is 3rd, MATLAB is 4th, Python is 4th, R is 4th
+a. Assembly  
+b. Fortran is 3rd, C is 3rd, C++ is 3rd, MATLAB is 4th, Python is 4th, R is 4th  
 24. C 1970s, C++ 1980s, MATLAB 1970s, Python 1990s, R 1990s  
 25. B  
 26. C with classes
