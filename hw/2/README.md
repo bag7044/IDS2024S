@@ -40,6 +40,6 @@ Moore's Law which is more different says on average every two years the number o
 3. 376,462,736,402,031  
 4. About one and a half years of world rice production.  
 27) finite control, one tape/having memory which it can pull and push from, and moving read/write head  
-28) Power law is constant as the exponent in is constant were as in exponential the exponent is what changes.
-EX: Power Law y=x^a  /  Exponential y=a^x   
+28) Power law is constant as the exponent in is constant whereas as in exponential the exponent is what changes.
+EX: Power Law y=x^a  /  Exponential y=a^x   a is the constant and x changes.
 
