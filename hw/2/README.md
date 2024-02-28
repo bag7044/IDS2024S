@@ -16,4 +16,18 @@
 11) B  
 12) C with Classes  
 13) APL for MATLAB and ABC for Python  
-14)
+14) The registers which are above the CPU L# cache. Unless we are talking about the physical hardware you buy it is the RAM.
+15) The registers which are above the CPU L# cache.  
+16) About 100 ns faster.   
+17) About a 1000 times faster.  
+18) About 1,000,000 times faster.  
+19) The more transistors, the more quickly a computer as it can do multiple things at once. We usually see them on CPUs and memory but they are used on all circuits to move electricity.  
+20) Transistors are already at their smallest to where we see electrons moving out of their circuits. Meaning we can not make them smaller so we are making more cores in CPUs.
+21) Fetch, Decode, and Execute.  
+22) DRAM is now the limiting factor as CPUs are way more quick and focus developed over time.  
+23) Yes, because it could have less/slower/older RAM which will bottleneck your CPU's full capacity.  
+24)  
+Dennard Scaling says as transistors shrink we are able to increase how many we put on a chip without consuming more power per transistor.  
+MOSFET Scaling says shrinking the MOSFET will improve performance which correlates with  Dennard Scaling.  
+Moore's Law which is more different says on average every two years the number of microchips doubles which doubles power and performance.  
+25) 
