@@ -30,4 +30,16 @@
 Dennard Scaling says as transistors shrink we are able to increase how many we put on a chip without consuming more power per transistor.  
 MOSFET Scaling says shrinking the MOSFET will improve performance which correlates with  Dennard Scaling.  
 Moore's Law which is more different says on average every two years the number of microchips doubles which doubles power and performance.  
-25) 
+25)   
+1. 64 
+2. 2080  
+3. It would be about 1/3 of a pound.   
+26)  
+1.  9,223,372,036,854,775,808  
+2. 18,446,744,073,709,551,615  
+3. 376,462,736,402,031  
+4. About one and a half years of world rice production.  
+27) finite control, one tape/having memory which it can pull and push from, and moving read/write head  
+28) Power law is constant as the exponent in is constant were as in exponential the exponent is what changes.
+EX: Power Law y=x^a  /  Exponential y=a^x   
+
