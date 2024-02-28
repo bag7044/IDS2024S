@@ -9,7 +9,7 @@
 **Level:** Undergraduate   
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](https://www.cdslab.org/IDS2024S/)  - **RIGHT CLICK SO IT DOES NOT TAKE YOU OUT OF PAGE**  
-**Photo:**   ![A photo of Brian G, JK its Messi](lionel-messi-862354l.jpg)  
+**Photo:**   ![A photo of Brian G, JK its Messi](lionel-messi-862354l.jpg) 
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for DATA-1301. The structure of the project is the following:
 
