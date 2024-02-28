@@ -35,7 +35,7 @@ b. Fortran is 3rd, C is 3rd, C++ is 3rd, MATLAB is 4th, Python is 4th, R is 4th
 25. B  
 26. C with classes
 27.  APL for MATLAB and ABC for Python  
-28.  a reading of numbers
+28.  a reading of numbers 
 29. 3, each time the number increases it increases by 3. Also 99/33=3 besides the fact if you subtract the a number from its previous you get 3.  
 30. HDD is longer lasting and they last about 8 years but you will see warranties for 2 years. I had an HDD go bad in 5 years which was tragic due to it being 1TB.  It would last as long as the magnets last.
 31. A time teller. Although not electrical we see the use of time-telling dates back to the ancient Mayans who had a very specific calender almost identical to ours. It is in fact so close we are both is the error region of the calendar (modern and aztec) meaning their calender from 100s to 1000s of years ago could be more accurate.  
