@@ -45,6 +45,7 @@ They are exactly the same.
 ![Q3q13.jpg](Q3q13.jpg).
 
 14)NAND equivalence.
+![Q3q14.jpg](Q3q14.jpg).
 
 15)Logic NAND and NOR.
 
