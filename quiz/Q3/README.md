@@ -53,11 +53,9 @@ They are exactly the same.
 16)Logical implication in terms of logic functions.  
 ![Q3q16.jpg](Q3q16.jpg).  
 
-17)Show via a Venn Diagram or a Truth Table, or explain by a logical argument that (A⇒B) ≡ (B¯¯¯¯⇒A¯¯¯¯)
-. Hint. This is a very simple question. Recall what logical implication means in terms of a Venn diagram. How does A
- look relative to B
-? Does the same also hold for B¯¯¯¯
- relative to A¯¯¯¯
-?
+17)Show via a Venn Diagram or a Truth Table, or explain by a logical argument that (A⇒B) ≡ (B¯¯¯¯⇒A¯¯¯¯)  
+![Q3q7.jpg](Q3q7.jpg).  
+All we need is this image. When (A=>B) we know that A does not exist without B so we can not color in A without coloring in B. This works Vis versa as NOT B can not exist without NOT A NOT A needs NOT B as there can not be A without B.  
 
-Extra Credit. Was this a fair quiz (overall, as you expected)? Briefly justify your response, especially if your answer is NO. How about the past quizzes in this course? (Hint. Provide your sincere opinion. Your answer won’t impact anything about your status in this course other than giving you an extra credit in this quiz. But it will impact the design of the future quizzes.)
+Extra Credit. Was this a fair quiz (overall, as you expected)? Briefly justify your response, especially if your answer is NO. How about the past quizzes in this course? (Hint. Provide your sincere opinion. Your answer won’t impact anything about your status in this course other than giving you an extra credit in this quiz. But it will impact the design of the future quizzes.)  
+I found this test harder then the rest of the quizes as it was like a mini lecture from a whole college class separate from ours but was needed and it would not be fair to call this unfair.  
