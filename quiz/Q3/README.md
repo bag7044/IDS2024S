@@ -28,15 +28,15 @@ George Boole (1854)
 ![Q3q8.jpg](Q3q8.jpg).
 
 9)What does it mean if two Boolean propositions are equal?
-They are exactly same
+They are exactly the same.
 
 10)Display the logical implication A⇒B
 ![Q3q7.jpg](Q3q7.jpg).
 
 
 11)Recall the Boolean algebra’s fundamental identities from our lecture notes. Show that,
+![Q3q11.jpg](Q3q11.jpg).
 
-C(A+B)¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯≡C¯¯¯¯+A¯¯¯¯ B¯¯¯¯
 
 12)Show, via Venn diagrams, that AB¯¯¯¯¯¯¯¯≢A¯¯¯¯ B¯¯¯¯  
 .
