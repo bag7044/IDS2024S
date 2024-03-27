@@ -9,7 +9,7 @@ numerical simulation
 data-driven discovery via machine learning, deep learning
 
 3)Describe three different major applications of the third pillar of science with respect to the first two.
-(Hint: Recall the discussions we had early in the semester during the first lecture series. Where and how could the third pillar replace the other pillars?)
+(Hint: Recall the discussions we had early in the semester during the first lecture series. Where and how could the third pillar replace the other pillars?) When we have models that are data driven they will have all the information needed from both one and two included into three.  
 
 4)Name the two different categories of logical reasoning and provide and example of each class.
 Experiment and Theory
