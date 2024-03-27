@@ -48,6 +48,7 @@ They are exactly the same.
 ![Q3q14.jpg](Q3q14.jpg).
 
 15)Logic NAND and NOR.
+![Q3q15.jpg](Q3q15.jpg).
 
 16)Logical implication in terms of logic functions.
 
