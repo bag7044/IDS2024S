@@ -36,7 +36,7 @@ Logic functions in terms of logic functions.
 ![Logic functions in terms of logic functions](Logicfunctionsintermsoflogicfunctions.jpg).
 
 The fundamental logical operators.  
-![The fundamental logical operators](The fundamental logical operators.jpg).
+![The fundamental logical operators](Thefundamentallogicaloperators.jpg).
 
 Consider the following series of questions:  
 a. What is the tiniest unit of information?  bit  
