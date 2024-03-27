@@ -50,7 +50,8 @@ They are exactly the same.
 15)Logic NAND and NOR.
 ![Q3q15.jpg](Q3q15.jpg).
 
-16)Logical implication in terms of logic functions.
+16)Logical implication in terms of logic functions.  
+![Q3q16.jpg](Q3q16.jpg).  
 
 17)Show via a Venn Diagram or a Truth Table, or explain by a logical argument that (A⇒B) ≡ (B¯¯¯¯⇒A¯¯¯¯)
 . Hint. This is a very simple question. Recall what logical implication means in terms of a Venn diagram. How does A
