@@ -16,7 +16,9 @@ Provide an example that shows logical implication does not necessarily imply phy
 We can say it's cloudy because it's raining. The clouds themselves are what caused the rain. It raining therefore it is cloudy  
 Policeman, jewelry, and burglar.  
 If A and B then C  
+  
 Logical Implication.  
+![Cirlce A inside circle B](whiteboard.png)
 
 
 Logical product denial.  
