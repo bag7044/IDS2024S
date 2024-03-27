@@ -39,7 +39,7 @@ They are exactly the same.
 
 
 12)Show, via Venn diagrams, that AB¯¯¯¯¯¯¯¯≢A¯¯¯¯ B¯¯¯¯  
-.
+![Q3q12.jpg](Q3q12.jpg).
 
 13)Show, via Venn diagram or truth table, that A+B¯¯¯¯¯¯¯¯¯¯¯¯¯¯≢A¯¯¯¯ + B¯¯¯¯
 .
