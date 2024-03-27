@@ -22,7 +22,7 @@ Logical Implication.
 
 
 Logical product denial.  
-
+![NOTAuB]((NOTAuB).jpg).
 
 Logic functions with 1 input.  
 
