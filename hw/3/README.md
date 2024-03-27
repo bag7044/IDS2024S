@@ -30,7 +30,7 @@ Logic functions with 1 input.
  
 
 Logic functions in terms of logic functions.  
-
+![Logic functions with 2 input](Logicfunctionswith2input.jpg).   
 
 The fundamental logical operators.  
 
