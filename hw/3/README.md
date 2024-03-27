@@ -18,7 +18,7 @@ Policeman, jewelry, and burglar.
 If A and B then C  
   
 Logical Implication.  
-![Cirlce A inside circle B](whiteboard.png)
+![Cirlce A inside circle B](Whiteboard.jpg)
 
 
 Logical product denial.  
