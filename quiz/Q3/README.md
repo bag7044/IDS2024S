@@ -25,6 +25,7 @@ George Boole (1854)
 ![Q3q7.jpg](Q3q7.jpg).
 
 8)Illustrate the logical disjunction via a Venn Diagram.
+![Q3q8.jpg](Q3q8.jpg).
 
 9)What does it mean if two Boolean propositions are equal?
 
