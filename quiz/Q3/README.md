@@ -28,17 +28,11 @@ George Boole (1854)
 ![Q3q8.jpg](Q3q8.jpg).
 
 9)What does it mean if two Boolean propositions are equal?
+They are exactly same
 
 10)Display the logical implication A⇒B
- via a Venn diagram.
-(Hint. Think about the meaning of logical implication A⇒B
-: If A
- is true, then B
- must be true. If A
- is false, then B
- can be either true or false. What configuration of A
- and B
- circles in a Venn diagram would correspond to the above statement for logical implication? Recall that when you are inside an object (circle) in a Venn diagram, it means the proposition corresponding to that object is true. When you are outside, the proposition is false.)
+![Q3q7.jpg](Q3q7.jpg).
+
 
 11)Recall the Boolean algebra’s fundamental identities from our lecture notes. Show that,
 
