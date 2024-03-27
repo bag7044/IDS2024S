@@ -42,7 +42,7 @@ They are exactly the same.
 ![Q3q12.jpg](Q3q12.jpg).
 
 13)Show, via Venn diagram or truth table, that A+B¯¯¯¯¯¯¯¯¯¯¯¯¯¯≢A¯¯¯¯ + B¯¯¯¯
-.
+![Q3q13.jpg](Q3q13.jpg).
 
 14)NAND equivalence.
 
