@@ -27,7 +27,7 @@ Logical product denial.
 Logic functions with 1 input.  
 logicfunctionwith1input.jpg  
 
-![Logic functions with 1 input](Logicfunctionswith2input.jpg).
+![Logic function with 1 input](Logicfunctionwith1input.jpg).
  
 
 Logic functions in terms of logic functions.  
