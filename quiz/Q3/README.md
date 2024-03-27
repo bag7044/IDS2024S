@@ -1,17 +1,28 @@
 1)Name and describe briefly the steps involved in scientific inference.
+Experiment/Observations- we make an experiment or observations to figure out our data
+Theory/ physical models- we then make a model to show the data and patterns
+Computational/ Data-driven models- we then can infer future data and or solutions with computational power.
 
-Name the three pillars of science.
+2)Name the three pillars of science.
+predictive computing
+numerical simulation
+data-driven discovery via machine learning, deep learning
 
 3)Describe three different major applications of the third pillar of science with respect to the first two.
 (Hint: Recall the discussions we had early in the semester during the first lecture series. Where and how could the third pillar replace the other pillars?)
 
 4)Name the two different categories of logical reasoning and provide and example of each class.
+Experiment and Theory
+Theory is easier to explain which is if we do the math like how in Oppenheimer they did the math for a nuclear bomb to see if the reaction would work and it did not but when done in an experiment it did work. "Theory can only take you so far"
 
 5)Is logical implication the same as physical causation? Explain with an example.
+They are not. If A then B is not correct as we can have A without B. It will rain because it is cloudy is incorrect because cloudy does not always lead to rain implying that A does not always lead to B. OR if raining then cloudy. It can be cloudy and not rain.
 
 6)Who is the Boolean algebra named after?
+George Boole (1854)
 
 7)Illustrate the logical conjunction via a Venn Diagram.
+![Q3q7.jpg](Q3q7.jpg).
 
 8)Illustrate the logical disjunction via a Venn Diagram.
 
