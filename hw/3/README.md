@@ -25,9 +25,9 @@ Logical product denial.
 ![NOTAuB]((NOTAuB).jpg).
 
 Logic functions with 1 input.  
+logicfunctionwith1input.jpg  
 
-
-Logic functions with 2 input.  
+![Logic functions with 1 input](Logicfunctionswith2input.jpg).
  
 
 Logic functions in terms of logic functions.  
