@@ -33,7 +33,7 @@ Logic functions with 2 input
 ![Logic functions with 2 input](Logicfunctionwith2input.jpg).   
 
 Logic functions in terms of logic functions.    
-
+![Logic functions in terms of logic functions](Logicfunctionsintermsoflogicfunctions.jpg).
 
 The fundamental logical operators.  
 
