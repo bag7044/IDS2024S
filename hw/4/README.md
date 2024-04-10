@@ -11,5 +11,6 @@
 6. Probability Theory: correspondence with commonsense.  
 
 7. The fundamental desiderata of Probability Theory.  
+Reality, Scenario, Data  
 
 
