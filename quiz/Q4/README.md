@@ -23,10 +23,10 @@
 
 
 8.  
- ![HW4Q2](HW4Q2.jpg).   
+ ![Q4Q8](Q44Q8.jpg).   
 
 9.  
-![HW4Q1](HW4Q1.jpg).
+   ![Q4Q9](Q4Q9.jpg).
 
 10.  
 
