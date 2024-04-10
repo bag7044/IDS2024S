@@ -1,5 +1,5 @@
 1. Logic NAND and NOR.  
- !IMG_2926.jpg(IMG_2926.jpg). 
+ ![IMG_2926.jpg](IMG_2926.jpg). 
 
 2. Logic NAND equivalence.  
 
