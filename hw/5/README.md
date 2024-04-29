@@ -31,8 +31,20 @@ Factors and the different categories are called levels.
   Especially good when having Skewed DATA or non-linear as the outliers can alter the data in a misleading way and that needs to be recognized.  
   
 9) Which one of the following three coordinates are valid and can be used to represent data?  
-  All can be used to represent data dependent on the audience and its knowledge and the data. Usually, we only want to use the black grid as it is the most basic for all views and you can show all types of relevance whether that is with dots, linear, not linear, exponential, etc…  
-
+  All can be used to represent data dependent on the audience and its knowledge and the data. Usually, we only want to use the black grid as it is the most basic for all views and you can show all types of relevance whether that is with dots, linear, not linear,           exponential, etc…  
+![coordinatesHW5.jpg](coordinatesHW5.jpg)   
+  
+10) What kind of data set can be best visualized in polar coordinates?  
+  Data of a periodic nature. Time, Rotation, Any Calculation with Pi, Navigation/Radar, Waves, Complex Numbers  
+  
+11) Name four different color scales and explain their most appropriate usage.  
+  Quantitive Color Scale-  To distinguish discrete items or group that do not have an intrinsic order   
+  Color to represent data values- income, temperature, or speed (sequence of color)  
+  Diverging Color Scale-  visualize the deviation of data values in one of two directions relative to a neutral midpoint  
+  Color as a tool to Highlight- There may be specific categories or values in the dataset that carry key information about the story we want to tell, and we can strengthen the story by emphasizing the relevant figure elements to the reader.  
+  
+12) What is wrong with the following visualization?  
+  From the PowerPoint, we know this is the distribution of height but the problem is this does not include the separation of ethnicity but more importantly the gender separation.
 
 
 
