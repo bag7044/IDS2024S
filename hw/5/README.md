@@ -44,7 +44,7 @@ Factors and the different categories are called levels.
   Color as a tool to Highlight- There may be specific categories or values in the dataset that carry key information about the story we want to tell, and we can strengthen the story by emphasizing the relevant figure elements to the reader.  
   
 12) What is wrong with the following visualization?  
-  From the PowerPoint, we know this is the distribution of height but the problem is this does not include the separation of ethnicity but more importantly the gender separation.
+  From the PowerPoint, we know this is the distribution of height but the problem is this does not include the separation of ethnicity but more importantly the gender separation. It could also use the log algorithm within excel to see the figures better and be more pleasing to the eye for data.  
 ![wrongHW5.jpg](wrongHW5.jpg).  
   
 13) Best visualization coloring.  
