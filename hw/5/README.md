@@ -63,10 +63,17 @@ How do the temperatures of these two cities correlate with each other?
 15)  
      ![RAINSUN1.jpg](RAINSUN1.jpg).
 
-16)
+16) 
 
+17) Name four major schools of Probability Theory.
+  Classical Probability, Bayesian Probability, Frequentist Probability, Propensity
 
-
+18)  
+   ![Pic6.jpg](Pic6.jpg)  
+It will be about 0.8 in 2050.  
+   ![Pic7.jpg](Pic7.jpg)  
+It will be about 1.75.  
+In this case scenario, I would say the quadratic but personally, I am finding the number between both and saying that will be the temperature in 2050.  
 
 
 
