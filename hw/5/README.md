@@ -60,7 +60,10 @@ Which city has less fluctuating temperatures across days of the year?
 How do the temperatures of these two cities correlate with each other?  
 ![Picture3Honolulu.jpg](Picture3.jpg).
 
-15) ![RAINSUN1.jpg](RAINSUN1.jpg).   
+15)  
+     ![RAINSUN1.jpg](RAINSUN1.jpg).
+
+16)
 
 
 
