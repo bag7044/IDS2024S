@@ -75,8 +75,13 @@ It will be about 0.8 in 2050.
 It will be about 1.75.  
   In this case scenario, I would say the quadratic but personally, I am finding the number between both and saying that will be the temperature in 2050.
 
-19) How many and what living creatures can you identify in this picture?  
-    ![animals-in-pond]()
+19) How many and what living creatures can you identify in this picture?   
+    ![animals-in-pond](animals-in-pond.jpg)  
+  2, A frog and a horse  
+  
+20)Move just one matchstick in the following equation to make it hold.  
+   You can take from the 8 turning it into a 6 and puting that match stick at the top of the 4 to get "6+3-9=0" which is correct.  
+    
 
 
 
