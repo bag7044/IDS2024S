@@ -51,8 +51,10 @@ Factors and the different categories are called levels.
   The purple/pink to green is better as we could have a color blind audience which would switch up the red and green.  
   
 14) Visualizing and comparing the temperatures of Honolulu and Duluth via Excel.  
-Duluth- Average 40.41 F  ![Picture1Duluth.jpg](Picture1Duluth.jpg).  
-Honolulu- Average 77.37 F ![Picture2Honolulu.jpg](Picture2Honolulu.jpg).  
+Duluth- Average 40.41 F, STDEV ~ 21.38  
+![Picture1Duluth.jpg](Picture1Duluth.jpg).  
+Honolulu- Average 77.37 F, STDEV ~ 3.49  
+![Picture2Honolulu.jpg](Picture2Honolulu.jpg).  
 
 
 
