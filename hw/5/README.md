@@ -52,13 +52,13 @@ Factors and the different categories are called levels.
   
 14) Visualizing and comparing the temperatures of Honolulu and Duluth via Excel.  
 Duluth- Average 40.41 F, STDEV ~ 21.38  
-![Picture1Duluth.jpg](Picture1Duluth.jpg).  
+![Picture5Duluth.jpg](Picture5.jpg).  
 Honolulu- Average 77.37 F, STDEV ~ 3.49  
-![Picture2Honolulu.jpg](Picture2Honolulu.jpg).  
+![Picture4Honolulu.jpg](Picture4.jpg).  
 Which one is hotter?  
 Which city has less fluctuating temperatures across days of the year?  
 How do the temperatures of these two cities correlate with each other?  
-
+![Picture3Honolulu.jpg](Picture3.jpg). 
 
 
 
