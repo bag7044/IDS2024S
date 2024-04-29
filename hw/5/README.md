@@ -46,9 +46,13 @@ Factors and the different categories are called levels.
 12) What is wrong with the following visualization?  
   From the PowerPoint, we know this is the distribution of height but the problem is this does not include the separation of ethnicity but more importantly the gender separation.
 ![wrongHW5.jpg](wrongHW5.jpg).  
-
-
-
+  
+13) Best visualization coloring.  
+  The purple/pink to green is better as we could have a color blind audience which would switch up the red and green.  
+  
+14) Visualizing and comparing the temperatures of Honolulu and Duluth via Excel.  
+![Picture1Duluth.jpg](Picture1Duluth.jpg).
+![Picture2Honolulu.jpg](Picture2Honolulu.jpg)
 
 
 
