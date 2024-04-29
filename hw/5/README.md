@@ -45,7 +45,7 @@ Factors and the different categories are called levels.
   
 12) What is wrong with the following visualization?  
   From the PowerPoint, we know this is the distribution of height but the problem is this does not include the separation of ethnicity but more importantly the gender separation.
-
+![wrongHW5.jpg](wrongHW5.jpg).  
 
 
 
