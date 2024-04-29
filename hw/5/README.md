@@ -65,8 +65,8 @@ How do the temperatures of these two cities correlate with each other?
 
 16) 
 
-17) Name four major schools of Probability Theory.
-  Classical Probability, Bayesian Probability, Frequentist Probability, Propensity
+17) Name four major schools of Probability Theory.  
+  Classical Probability, Bayesian Probability, Frequentist Probability, Propensity  
 
 18)  
    ![Pic6.jpg](Pic6.jpg)  
