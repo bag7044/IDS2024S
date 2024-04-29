@@ -51,13 +51,13 @@ Factors and the different categories are called levels.
   The purple/pink to green is better as we could have a color blind audience which would switch up the red and green.  
   
 14) Visualizing and comparing the temperatures of Honolulu and Duluth via Excel.  
-Duluth- Average 40.41 F, STDEV ~ 21.38  
-![Picture5Duluth.jpg](Picture5.jpg).  
-Honolulu- Average 77.37 F, STDEV ~ 3.49  
-![Picture4Honolulu.jpg](Picture4.jpg).  
-Which one is hotter?  
-Which city has less fluctuating temperatures across days of the year?  
-How do the temperatures of these two cities correlate with each other?  
+  Duluth- Average 40.41 F, STDEV ~ 21.38  
+  ![Picture5Duluth.jpg](Picture5.jpg).  
+  Honolulu- Average 77.37 F, STDEV ~ 3.49  
+  ![Picture4Honolulu.jpg](Picture4.jpg).  
+  Which one is hotter?  
+  Which city has less fluctuating temperatures across days of the year?  
+  How do the temperatures of these two cities correlate with each other?  
 ![Picture3Honolulu.jpg](Picture3.jpg).
 
 15)  
@@ -73,8 +73,10 @@ How do the temperatures of these two cities correlate with each other?
 It will be about 0.8 in 2050.  
    ![Pic7.jpg](Pic7.jpg)  
 It will be about 1.75.  
-In this case scenario, I would say the quadratic but personally, I am finding the number between both and saying that will be the temperature in 2050.  
+  In this case scenario, I would say the quadratic but personally, I am finding the number between both and saying that will be the temperature in 2050.
 
+19) How many and what living creatures can you identify in this picture?  
+    ![animals-in-pond]()
 
 
 
