@@ -1,15 +1,33 @@
 What is the difference between model validation and calibration?  
 
+
 what are aesthetics in data visualization? Name a few aesthetics that can appear in a data visualization.  
-  
+  All data visualizations map data values into quantifiable features of the resulting graphic.
+Position, Shape, Size, Color, Line Width, Line Type  
+
+
 Best visualization coloring.  
+  The purple/pink to green is better as we could have a color blind audience which would switch up the red and green.  
+
 
 Visualization color scales.  
 What is each color-scale good for in Data Science?  
-  
+ A) Qualitative   
+ B) Data Values    
+ C) Diverging  
+ D) Highlight  
+ 
 Name the three pillars of science.  
+  predictive computing numerical simulation data-driven discovery via machine learning, deep learning  
   
 Is logical implication the same as physical causation? Explain with a real-world example.  
+  No, if everything were to be proven we would be able to accurately predict the weather but reality is not the same as logical implications. What we gather and reality are two separate categories.  
+  1. It is okay I would show both quadratic, exponential, and linear for more data.  
+  2. Accuracy of weather as there was not recordings or recordings of data could be off.  
+  3. Positive.  
+  4. Yes as it shows what happens over a period of time.  
+  5.  0.05  
+  
   
 Suppose we have fit the following red-line to the following blue dataset representing the global temperature increase of Earth over the past centuries.  
 global land temperature of Earth  
