@@ -73,7 +73,7 @@ They are exactly the same.
 
   
 Show, via Venn diagrams, that AB¯¯¯¯¯¯¯¯≢A¯¯¯¯ B¯¯¯¯  
-.  
+![FINALEX.jpg](FINALEX.jpg)
 
 Can we represent all real numbers in computers?  
 Consider the following summation:  
