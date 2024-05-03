@@ -58,27 +58,30 @@ Factors and the different categories are called levels.
   Which one is hotter?  
   Which city has less fluctuating temperatures across days of the year?  
   How do the temperatures of these two cities correlate with each other?  
-![Picture3Honolulu.jpg](Picture3.jpg).
+![Picture3Honolulu.jpg](Picture3.jpg).  
 
 15)  
-     ![RAINSUN1.jpg](RAINSUN1.jpg).
+     ![RAINSUN1.jpg](RAINSUN1.jpg).  
 
-16) 
+16) Based on this plot, what is the approximate population of the 1000
+th most populous city in Texas?  
+Without the logarithmic scale in use we can not answer this question as it looks like one but once the arithmetic scale (10) is used we can tell that the 1,000th most populated city in Texas has a 1,000 population.  
+   ![Picture8.jpg](Picture8.jpg)    
 
-17) Name four major schools of Probability Theory.  
+18) Name four major schools of Probability Theory.  
   Classical Probability, Bayesian Probability, Frequentist Probability, Propensity  
 
-18)  
+19)  
    ![Pic6.jpg](Pic6.jpg)  
 It will be about 0.8 in 2050.  
    ![Pic7.jpg](Pic7.jpg)  
 It will be about 1.75.  
-  In this case scenario, I would say the quadratic but personally, I am finding the number between both and saying that will be the temperature in 2050.
-
-19) How many and what living creatures can you identify in this picture?   
+  In this case scenario, I would say the quadratic but personally, I am finding the number between both and saying that will be the temperature in 2050.  
+  
+20) How many and what living creatures can you identify in this picture?   
     ![animals-in-pond](animals-in-pond.jpg)  
   2, A frog and a horse  
-  
+    
 20)Move just one matchstick in the following equation to make it hold.  
    You can take from the 8 turning it into a 6 and puting that match stick at the top of the 4 to get "6+3-9=0" which is correct.  
     
