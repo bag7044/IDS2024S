@@ -68,17 +68,18 @@ th most populous city in Texas?
 Without the logarithmic scale in use we can not answer this question as it looks like one but once the arithmetic scale (10) is used we can tell that the 1,000th most populated city in Texas has a 1,000 population.  
    ![Picture8.jpg](Picture8.jpg)    
 
-18) Name four major schools of Probability Theory.  
+17) Name four major schools of Probability Theory.  
   Classical Probability, Bayesian Probability, Frequentist Probability, Propensity  
+  ![IMG_3169.jpg](IMG_3169.jpg)
 
-19)  
+18)  
    ![Pic6.jpg](Pic6.jpg)  
 It will be about 0.8 in 2050.  
    ![Pic7.jpg](Pic7.jpg)  
 It will be about 1.75.  
   In this case scenario, I would say the quadratic but personally, I am finding the number between both and saying that will be the temperature in 2050.  
   
-20) How many and what living creatures can you identify in this picture?   
+19) How many and what living creatures can you identify in this picture?   
     ![animals-in-pond](animals-in-pond.jpg)  
   2, A frog and a horse  
     
