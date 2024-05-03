@@ -1,5 +1,5 @@
 What is the difference between model validation and calibration?  
-
+Validation is the proof of it being true while calibration is the calculation to see what would happen or be true.  
 
 what are aesthetics in data visualization? Name a few aesthetics that can appear in a data visualization.  
   All data visualizations map data values into quantifiable features of the resulting graphic.
@@ -40,13 +40,13 @@ When data is scarce, which school of probability theory is the most useful for s
   Classical Probability, Bayesian Probability  
   
 Which school of thought in Probability Theory cannot define or discuss the probability of existence of God? Why?  
-  Frequentist as there is no way to calculate how many times God appears to show he is real  
+  Frequentist as there is no way to calculate how many times God appears to show he is real. Cant say how frequent God acts.
     
 A wrong visualization.  
   It shows both females and males together and it goes below 0.
   
 Why is everything represented by integers in computers?  
-  Computer reads in binary which is true or false not inbetween.  
+  Computer reads in binary which is true or false not in between.  
   
 Name an ancestor programming language of C.   
 B  
