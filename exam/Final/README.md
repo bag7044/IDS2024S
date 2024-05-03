@@ -22,6 +22,10 @@ Name the three pillars of science.
   
 Is logical implication the same as physical causation? Explain with a real-world example.  
   No, if everything were to be proven we would be able to accurately predict the weather but reality is not the same as logical implications. What we gather and reality are two separate categories.  
+
+  Suppose we have fit the following red-line to the following blue dataset representing the global temperature increase of Earth over the past centuries.  
+global land temperature of Earth  
+Is this visually a good fit in your opinion? Why?  
   1. It is okay I would show both quadratic, exponential, and linear for more data.  
   2. Accuracy of weather as there was not recordings or recordings of data could be off.  
   3. Positive.  
@@ -29,32 +33,26 @@ Is logical implication the same as physical causation? Explain with a real-world
   5.  0.05  
   
   
-Suppose we have fit the following red-line to the following blue dataset representing the global temperature increase of Earth over the past centuries.  
-global land temperature of Earth  
-Is this visually a good fit in your opinion? Why?  
-  
-What type of uncertainty dominates this dataset in the early years (before 1850)?  
-  
-Is the trend seen in this dataset an example of positive correlation or negative correlation?  
-  
-Could this dataset be classified as timeseries data? Why?  
-  
-Download this dataset visualized above.  
-Then, open the file in Excel and compute the average temperature anomaly over all dates available in the file and report the single average value here.  
-  
 Which school(s) of probability theory allow incorporation of expert (prior) knowledge in scientific inference?  
+  Classical Probability, Bayesian Probability   
   
 When data is scarce, which school of probability theory is the most useful for scientific inference?  
+  Classical Probability, Bayesian Probability  
   
 Which school of thought in Probability Theory cannot define or discuss the probability of existence of God? Why?  
-  
+  Frequentist as there is no way to calculate how many times God appears to show he is real  
+    
 A wrong visualization.  
+  It shows both females and males together and it goes below 0.
   
 Why is everything represented by integers in computers?  
+  Computer reads in binary which is true or false not inbetween.  
   
 Name an ancestor programming language of C.   
+B  
   
 Name the first high-level programming language in computer history.  
+  FORTRAN  '
   
 Recall the Boolean algebra’s fundamental identities from our lecture notes. Show that,
   
@@ -67,8 +65,12 @@ Show via a Venn Diagram or a Truth Table, or explain by a logical argument that 
 ?
 
 Name the two different categories of logical reasoning and provide and example of each class.  
+ Experiment and Theory Theory is easier to explain which is if we do the math like how in Oppenheimer they did the math for a nuclear bomb to see if the reaction would work and it did not but when done in an experiment it did work. "Theory can only take you so far"  
+
   
 What does it mean if two Boolean propositions are equal?  
+They are exactly the same.  
+
   
 Show, via Venn diagrams, that AB¯¯¯¯¯¯¯¯≢A¯¯¯¯ B¯¯¯¯  
 .  
